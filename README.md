@@ -6,7 +6,9 @@
 
 The office printer has one job: print. Instead it blinks, demands a firmware update, and dies mid-page like a drama queen. I have fed it paper, ink, and my last shred of patience, and it still prints the first page blank and the second in a font I have never seen. I did not come here to negotiate with a machine. I came here to print one page.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the rant above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -14,6 +16,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046 -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046).</sub>
